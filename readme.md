@@ -1,6 +1,6 @@
 # Coost
 
-Boost twice
+Boost twicex
 
 
 English | [简体中文](readme_cn.md)
