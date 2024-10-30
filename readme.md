@@ -1,5 +1,8 @@
 # Coost
 
+Boost
+
+
 English | [简体中文](readme_cn.md)
 
 [![Linux Build](https://img.shields.io/github/actions/workflow/status/idealvin/coost/linux.yml?branch=master&logo=linux)](https://github.com/idealvin/coost/actions?query=workflow%3ALinux)
